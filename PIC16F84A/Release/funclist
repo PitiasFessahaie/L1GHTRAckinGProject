@@ -1,0 +1,8 @@
+_init: CODE, 780 0 4
+_main: CODE, 934 0 90
+_forward: CODE, 804 0 17
+___lwdiv: CODE, 855 0 79
+_left: CODE, 838 0 17
+_right: CODE, 821 0 17
+_halt: CODE, 788 0 16
+Total: 240
